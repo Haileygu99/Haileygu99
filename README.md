@@ -3,7 +3,7 @@
 🔭 I am currently working on 3D Bioprinting and Deep Neural Networks. 
 
 
- - 🌱 My previous research focuses on characterising the distinct aggregate species found in different neurodegenerative disorders through quantitative image analysis approaches.
+🌱 My previous research focuses on characterising the distinct aggregate species found in different neurodegenerative disorders through quantitative image analysis approaches.
 
 <!--
 **Haileygu99/Haileygu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
