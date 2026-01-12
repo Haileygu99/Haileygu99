@@ -1,7 +1,8 @@
 ## Hello, I am Hailey Gu 👋
 
-🔭 I am currently working on 3D Bioprinting and Deep Neural Networks. 
+🔭 I am currently working on theoretical machine learning. 
 
+🧠 Previously working on 3D Bioprinting and Deep Neural Networks.
 
 🌱 My previous research focused on characterising the distinct aggregate species found in different neurodegenerative disorders through quantitative image analysis approaches.
 
