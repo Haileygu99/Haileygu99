@@ -1,6 +1,6 @@
 ## Hello, I am Hailey Gu 👋
 
-🔭 I am currently working on theoretical machine learning. 
+🔭 I am currently working on Theoretical Machine Learning & Computational Neuroscience. 
 
 🧠 Previously working on 3D Bioprinting and Deep Neural Networks.
 
@@ -22,7 +22,7 @@
           { ♥ }        
             |
         ────┴────
-       /     |     \
+       /    |    \
  
 
 
