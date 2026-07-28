@@ -6,26 +6,6 @@
 
 🌱 My previous research focused on characterising the distinct aggregate species found in different neurodegenerative disorders through quantitative image analysis approaches.
 
-            ☆
-           /|\
-          / | \        
-         /  |  \
-            |
-        ┌───┴───┐
-        │  ◕ ◕  │    
-        │    ∆   │
-        │  ───  │   
-        └───┬───┘
-            |
-      ──────┼──────    
-            |
-          { ♥ }        
-            |
-        ────┴────
-       /    |    \
- 
-
-
 <!--
 **Haileygu99/Haileygu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
